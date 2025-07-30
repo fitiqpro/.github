@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="/fitiq_logo.png" alt="Fitiq Logo" width="200" />
+</p>
+
+
 # FITIQ
 
 Welcome to **Fitiq** — a modern platform blending smart tailoring with cutting-edge web technologies.
