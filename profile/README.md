@@ -18,9 +18,10 @@ Please note that our contribution policies and workflow guidelines are maintaine
 
 You can find the following important file:
 
-- `CONTRIBUTING.md` — Detailed contribution rules and branch strategy.
+- [`CONTRIBUTING.md`](./CONTRIBUTING.md) — Detailed contribution rules and branch strategy.
 
 Make sure to review this document before making any code contributions. It defines our team’s workflow, branch naming conventions, and code standards.
+
 
 
 
