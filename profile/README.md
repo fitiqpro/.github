@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/fitiq_logo.png" alt="Fitiq Logo" width="200" />
+  <img src="fitiq_logo.png" alt="Fitiq Logo" width="200" />
 </p>
 
 
